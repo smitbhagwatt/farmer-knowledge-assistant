@@ -2,5 +2,9 @@
 .env
 __pycache__/
 *.pyc
+
+# Generated / local data
+data/
+
+# Local vector database
 chroma/
-data/documents/*.pdf
